@@ -8,3 +8,4 @@ The log of my #100DaysOfCode challenge. Started on [June 16, Monday, 2020].
 Working through https://automatetheboringstuff.com/. Chapter 12 on openpyxl, working on a multiplierTableMaker.py project
 
 ### R1D2
+Working through https://automatetheboringstuff.com/. Chapter 12 on openpyxl, finished mulitplierTable.py. Now working through blankRowInserter.py
