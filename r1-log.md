@@ -10,5 +10,8 @@ Working through https://automatetheboringstuff.com/. Chapter 12 on openpyxl, wor
 ### R1D2
 Working through https://automatetheboringstuff.com/. Chapter 12 on openpyxl, finished mulitplierTable.py. Now working through blankRowInserter.py
 
-### R1D2
+### R1D3
 Working through https://automatetheboringstuff.com/. Chapter 12 on openpyxl, finished blankRowInseter.py
+
+### R1D4
+Working through https://automatetheboringstuff.com/. Chapter 12 on openpyxl, still working on spreadSheetInverter.py
