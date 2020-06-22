@@ -15,3 +15,6 @@ Working through https://automatetheboringstuff.com/. Chapter 12 on openpyxl, fin
 
 ### R1D4
 Working through https://automatetheboringstuff.com/. Chapter 12 on openpyxl, still working on spreadSheetInverter.py
+
+### R1D5
+Completed practice problems in Chapter 12 for https://automatetheboringstuff.com/. Completed a spreadsheetToTxt.py and txtToSpreadsheet.py - Missed a few days of tweeting but was still working on code.
