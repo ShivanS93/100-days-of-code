@@ -18,3 +18,6 @@ Working through https://automatetheboringstuff.com/. Chapter 12 on openpyxl, sti
 
 ### R1D5
 Completed practice problems in Chapter 12 for https://automatetheboringstuff.com/. Completed a spreadsheetToTxt.py and txtToSpreadsheet.py - Missed a few days of tweeting but was still working on code.
+
+### R1D6
+Working through https://automatetheboringstuff.com/. Completed a openpyxl practice problems. Now working through Chapter 13 which includes Pdfs and Workdocs.
