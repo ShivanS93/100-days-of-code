@@ -21,3 +21,6 @@ Completed practice problems in Chapter 12 for https://automatetheboringstuff.com
 
 ### R1D6
 Working through https://automatetheboringstuff.com/. Completed a openpyxl practice problems. Now working through Chapter 13 which includes Pdfs and Workdocs.
+
+### R1D7
+Working through https://automatetheboringstuff.com/. Working through Chapter 13 PyPDF2 and Python-docx
