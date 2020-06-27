@@ -27,3 +27,6 @@ Working through https://automatetheboringstuff.com/. Working through Chapter 13 
 
 ### R1D8
 Working through https://automatetheboringstuff.com/. Finished PyPDF2 and Python-docx practice problems now looking to do the practice projects.
+
+### R1D9
+Working through https://automatetheboringstuff.com/. Doing practice projects in PyPDF and python-docx. Also learning Pandas and working on shoppingList scripts
