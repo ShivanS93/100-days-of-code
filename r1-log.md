@@ -33,3 +33,6 @@ Working through https://automatetheboringstuff.com/. Doing practice projects in 
 
 ### R1D10
 Working through https://automatetheboringstuff.com/. Completed practice problems for PyPDF2 and python-docx. Made a script that brute force decrpyts a pdf that uses an english word. Also worked on Pandas / Matplotlib libraries
+
+### R1D10
+Working through https://automatetheboringstuff.com/. Working through csv and json information.
