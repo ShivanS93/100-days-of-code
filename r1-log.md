@@ -36,3 +36,6 @@ Working through https://automatetheboringstuff.com/. Completed practice problems
 
 ### R1D10
 Working through https://automatetheboringstuff.com/. Working through csv and json information.
+
+### R1D11
+Working through https://automatetheboringstuff.com/. Finishing csv and json, going through practice problems.
