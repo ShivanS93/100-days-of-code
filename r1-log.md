@@ -39,3 +39,7 @@ Working through https://automatetheboringstuff.com/. Working through csv and jso
 
 ### R1D11
 Working through https://automatetheboringstuff.com/. Finishing csv and json, going through practice problems.
+
+### R1D12
+Working through https://automatetheboringstuff.com/. Completed chapter on csv and json, completed practice problems. Also, finished Lynda.com course on pandas, seaborn and matplotlib.
+
