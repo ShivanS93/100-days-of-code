@@ -43,3 +43,6 @@ Working through https://automatetheboringstuff.com/. Finishing csv and json, goi
 ### R1D12
 Working through https://automatetheboringstuff.com/. Completed chapter on csv and json, completed practice problems. Also, finished Lynda.com course on pandas, seaborn and matplotlib.
 
+### R1D13
+Working through https://automatetheboringstuff.com/. Going through time and datetime libraries. Working on a shopping list project as well. Was using RapidAPI.
+
