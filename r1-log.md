@@ -46,3 +46,6 @@ Working through https://automatetheboringstuff.com/. Completed chapter on csv an
 ### R1D13
 Working through https://automatetheboringstuff.com/. Going through time and datetime libraries. Working on a shopping list project as well. Was using RapidAPI.
 
+### R1D14
+Working through Automate the Boring Stuff, learning about threading and subprocesses. Also learning about FME and using pandas.
+
