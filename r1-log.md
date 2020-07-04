@@ -49,3 +49,6 @@ Working through https://automatetheboringstuff.com/. Going through time and date
 ### R1D14
 Working through Automate the Boring Stuff, learning about threading and subprocesses. Also learning about FME and using pandas.
 
+### R1D15
+Working through Automate the Boring Stuff, doing the practice problems using time, pyperclip.
+
