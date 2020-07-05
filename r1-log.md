@@ -52,3 +52,8 @@ Working through Automate the Boring Stuff, learning about threading and subproce
 ### R1D15
 Working through Automate the Boring Stuff, doing the practice problems using time, pyperclip.
 
+### R1D16
+
+Practice problem from Automate the Boring Stuff. Created a small program that downloads the latest webcomic image. It is schedule to run everytime I log in which is usually daily. Uses libraries requests, bs4, time
+
+
