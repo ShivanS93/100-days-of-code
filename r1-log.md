@@ -56,4 +56,8 @@ Working through Automate the Boring Stuff, doing the practice problems using tim
 
 Practice problem from Automate the Boring Stuff. Created a small program that downloads the latest webcomic image. It is schedule to run everytime I log in which is usually daily. Uses libraries requests, bs4, time
 
+### R1D17
+
+Had a relaxed day of coding. I worked through Automate the Boring Stuff, looking at smtplib, pyzmail.
+
 
