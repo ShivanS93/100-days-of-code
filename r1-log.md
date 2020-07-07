@@ -60,4 +60,8 @@ Practice problem from Automate the Boring Stuff. Created a small program that do
 
 Had a relaxed day of coding. I worked through Automate the Boring Stuff, looking at smtplib, pyzmail.
 
+### R1D18
+
+Was a part of a virtual Python meetup discussing Docker.
+
 
