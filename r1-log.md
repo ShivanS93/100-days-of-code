@@ -64,4 +64,8 @@ Had a relaxed day of coding. I worked through Automate the Boring Stuff, looking
 
 Was a part of a virtual Python meetup discussing Docker.
 
+### R1D19
+
+Did not want to go through Automate the Boring Stuff so was working through my Shopping list app. Able to use RapidAPI/Spoonacular to parse an ingredient list.
+
 
