@@ -68,4 +68,8 @@ Was a part of a virtual Python meetup discussing Docker.
 
 Did not want to go through Automate the Boring Stuff so was working through my Shopping list app. Able to use RapidAPI/Spoonacular to parse an ingredient list.
 
+### R1D20
+
+Working on my shopping list. Also, looking into myworksies and creating an automation to look at the data from this website.
+
 
