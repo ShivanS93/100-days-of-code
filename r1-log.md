@@ -72,4 +72,7 @@ Did not want to go through Automate the Boring Stuff so was working through my S
 
 Working on my shopping list. Also, looking into myworksies and creating an automation to look at the data from this website.
 
+### R1D21
+
+Working on selenium and automating web interactions.
 
