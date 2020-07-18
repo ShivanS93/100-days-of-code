@@ -80,3 +80,6 @@ Working on selenium and automating web interactions.
 
 Working on selenium and automating web interactions.
 
+### R1D23
+8 days of no code. Learning FME instead. Learning IMAPClient.
+
