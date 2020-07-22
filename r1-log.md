@@ -83,3 +83,5 @@ Working on selenium and automating web interactions.
 ### R1D23
 8 days of no code. Learning FME instead. Learning IMAPClient.
 
+### R1D24
+Working through pandas and matplotlib using Anaconda. Finding out my habits in prescribing contact lenses.
