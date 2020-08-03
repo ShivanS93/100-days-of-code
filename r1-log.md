@@ -85,3 +85,9 @@ Working on selenium and automating web interactions.
 
 ### R1D24
 Working through pandas and matplotlib using Anaconda. Finding out my habits in prescribing contact lenses.
+
+### R1D25
+
+Been bad keeping this up to date but I have been coding. Learning how to use a Linux remote server.
+
+
