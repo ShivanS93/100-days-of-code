@@ -90,4 +90,7 @@ Working through pandas and matplotlib using Anaconda. Finding out my habits in p
 
 Been bad keeping this up to date but I have been coding. Learning how to use a Linux remote server.
 
+### R1D26
+
+Working way through linuxupskillchallenge on reddit! Onto Day 5. Working on a remote linux server.
 
