@@ -94,3 +94,7 @@ Been bad keeping this up to date but I have been coding. Learning how to use a L
 
 Working way through linuxupskillchallenge on reddit! Onto Day 5. Working on a remote linux server.
 
+### R1D27
+
+On Day 6 of /r/linuxupskillchallenge on reddit. I installed apache onto my own remote linux server. http://3.104.119.227/ check it out! Also working with API data from Christchurch Property Sales.
+
