@@ -98,3 +98,8 @@ Working way through linuxupskillchallenge on reddit! Onto Day 5. Working on a re
 
 On Day 6 of /r/linuxupskillchallenge on reddit. I installed apache onto my own remote linux server. http://3.104.119.227/ check it out! Also working with API data from Christchurch Property Sales.
 
+### R1D28
+
+On Day 7 of /r/linuxupskillchallenge on reddit. Looking up log files and see who have logged in and people who also failed to log in to the remote server.
+
+
