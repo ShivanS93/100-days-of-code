@@ -102,4 +102,8 @@ On Day 6 of /r/linuxupskillchallenge on reddit. I installed apache onto my own r
 
 On Day 7 of /r/linuxupskillchallenge on reddit. Looking up log files and see who have logged in and people who also failed to log in to the remote server.
 
+### R1D29
+
+On Day 8/9 of /r/linuxupskillchallenge on reddit. Creating firewalls and using grep/less. Also worked on OKN program. OKN program uses pygame to move an image across a screen so stimule OKN.
+
 
