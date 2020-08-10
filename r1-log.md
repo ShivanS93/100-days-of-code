@@ -106,4 +106,7 @@ On Day 7 of /r/linuxupskillchallenge on reddit. Looking up log files and see who
 
 On Day 8/9 of /r/linuxupskillchallenge on reddit. Creating firewalls and using grep/less. Also worked on OKN program. OKN program uses pygame to move an image across a screen so stimule OKN.
 
+### R1D30
+
+Completed day 10 of linuxupskillchallange at linuxupskillchallenge.org. Working with cron - a task schdule for linux. Also started working on Django
 
