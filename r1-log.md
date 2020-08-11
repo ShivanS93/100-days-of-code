@@ -110,3 +110,7 @@ On Day 8/9 of /r/linuxupskillchallenge on reddit. Creating firewalls and using g
 
 Completed day 10 of linuxupskillchallange at linuxupskillchallenge.org. Working with cron - a task schdule for linux. Also started working on Django
 
+### R1D31
+
+Worked on Day 11 of linuxupskillchallenge at linuxupskillchallenge.org. Using locate, find, grep, where to search directories and files. I also switched to working on Django as well using their own documentation
+
