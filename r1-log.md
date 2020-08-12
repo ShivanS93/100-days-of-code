@@ -114,3 +114,7 @@ Completed day 10 of linuxupskillchallange at linuxupskillchallenge.org. Working 
 
 Worked on Day 11 of linuxupskillchallenge at linuxupskillchallenge.org. Using locate, find, grep, where to search directories and files. I also switched to working on Django as well using their own documentation
 
+### R1D32
+
+Working on Day 12 of the https://linuxupskillchallenge.org. I learned about using Firezilla and SFTP to move files between my machine and the remote server. Then, I worked on Django documentation on creating a poll app.
+
