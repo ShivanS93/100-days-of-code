@@ -118,3 +118,6 @@ Worked on Day 11 of linuxupskillchallenge at linuxupskillchallenge.org. Using lo
 
 Working on Day 12 of the https://linuxupskillchallenge.org. I learned about using Firezilla and SFTP to move files between my machine and the remote server. Then, I worked on Django documentation on creating a poll app.
 
+### R1D33
+
+Working on Day 13 of the https://linuxupskillchallenge.org, where I learned about setting permission for particular file types. I also did some Django looking at views system.
