@@ -121,3 +121,7 @@ Working on Day 12 of the https://linuxupskillchallenge.org. I learned about usin
 ### R1D33
 
 Working on Day 13 of the https://linuxupskillchallenge.org, where I learned about setting permission for particular file types. I also did some Django looking at views system.
+
+### R1D34
+
+I also did some Django and got started on templates. Got stared on creating new user for my remote linux server.
