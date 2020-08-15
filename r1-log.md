@@ -125,3 +125,7 @@ Working on Day 13 of the https://linuxupskillchallenge.org, where I learned abou
 ### R1D34
 
 I also did some Django and got started on templates. Got stared on creating new user for my remote linux server.
+
+### R1D35
+
+Still stick on creating a new user for linux. I can log on to them using sudo su - user_name but I cannot get in using PuTTY and created keygen. Talked to a friend over the internet for a project we are working on together. Also, did some django.
