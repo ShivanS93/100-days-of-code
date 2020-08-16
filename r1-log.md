@@ -129,3 +129,7 @@ I also did some Django and got started on templates. Got stared on creating new 
 ### R1D35
 
 Still stick on creating a new user for linux. I can log on to them using sudo su - user_name but I cannot get in using PuTTY and created keygen. Talked to a friend over the internet for a project we are working on together. Also, did some django.
+
+### R1D36
+
+Working on TAB data manipulation. Also, stuck on creating another use for remote linux server. And stuck on django project learning.
