@@ -133,3 +133,7 @@ Still stick on creating a new user for linux. I can log on to them using sudo su
 ### R1D36
 
 Working on TAB data manipulation. Also, stuck on creating another use for remote linux server. And stuck on django project learning.
+
+### R1D37
+
+Using Jupyerlab to download data for New Zealand COVID data. Day 14 of Linux challenge was successful in creating a new user. Also worked on some django.
