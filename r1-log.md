@@ -137,3 +137,8 @@ Working on TAB data manipulation. Also, stuck on creating another use for remote
 ### R1D37
 
 Using Jupyerlab to download data for New Zealand COVID data. Day 14 of Linux challenge was successful in creating a new user. Also worked on some django.
+
+### R1D38
+
+Completed Day 16 of https://linuxupskillchallenge.org. Learning about tar and gzip. Working through Django as well.
+
