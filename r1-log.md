@@ -142,3 +142,7 @@ Using Jupyerlab to download data for New Zealand COVID data. Day 14 of Linux cha
 
 Completed Day 16 of https://linuxupskillchallenge.org. Learning about tar and gzip. Working through Django as well.
 
+### R1D39
+
+Working with JupyterLab and looking at COVID data for New Zealand.
+
