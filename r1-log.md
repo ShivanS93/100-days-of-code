@@ -146,3 +146,8 @@ Completed Day 16 of https://linuxupskillchallenge.org. Learning about tar and gz
 
 Working with JupyterLab and looking at COVID data for New Zealand.
 
+
+### R1D40
+
+Compleleted Day 17 of https://linuxupskillchallenge.org. Also, working on Flask and my TAB extractor.
+
