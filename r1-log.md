@@ -151,3 +151,7 @@ Working with JupyterLab and looking at COVID data for New Zealand.
 
 Compleleted Day 17 of https://linuxupskillchallenge.org. Also, working on Flask and my TAB extractor.
 
+### R1D41
+
+Doing my first 'client' sort of run. Built an automation using selenium to download files and save to .csv files.
+
