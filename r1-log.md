@@ -155,3 +155,7 @@ Compleleted Day 17 of https://linuxupskillchallenge.org. Also, working on Flask 
 
 Doing my first 'client' sort of run. Built an automation using selenium to download files and save to .csv files.
 
+### R1D42
+
+I worked on the linuxupskillchallenge.org. Day 18 involved using logrotate in addition to cron to schedule compression of log files.
+
