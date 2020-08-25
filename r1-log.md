@@ -159,3 +159,8 @@ Doing my first 'client' sort of run. Built an automation using selenium to downl
 
 I worked on the linuxupskillchallenge.org. Day 18 involved using logrotate in addition to cron to schedule compression of log files.
 
+
+### R1D43
+
+I worked on the linuxupskillchallenge.org. Day 19 involved working with hard and soft links. I also worked with environment variables for dealing with passwords.
+
