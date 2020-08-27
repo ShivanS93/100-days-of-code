@@ -164,3 +164,11 @@ I worked on the linuxupskillchallenge.org. Day 18 involved using logrotate in ad
 
 I worked on the linuxupskillchallenge.org. Day 19 involved working with hard and soft links. I also worked with environment variables for dealing with passwords.
 
+### R1D44
+
+Completed the linuxupskillchallenge.org. Day 20 involving creating scripts using bash.
+
+### R1D45
+
+Used jupyter notebook, python, pandas, matplotlib to analyse data in my job as an Optometrist. This involves looking at segmenting our patients to see our 'Orthokeratology' conversion rate.
+
