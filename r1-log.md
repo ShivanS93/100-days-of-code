@@ -172,3 +172,7 @@ Completed the linuxupskillchallenge.org. Day 20 involving creating scripts using
 
 Used jupyter notebook, python, pandas, matplotlib to analyse data in my job as an Optometrist. This involves looking at segmenting our patients to see our 'Orthokeratology' conversion rate.
 
+### R1D46
+
+Been going through youtube data API v3. Exctracting view accounts for a youtube channel's uploads.
+
