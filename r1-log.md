@@ -174,5 +174,10 @@ Used jupyter notebook, python, pandas, matplotlib to analyse data in my job as a
 
 ### R1D46
 
-Been going through youtube data API v3. Exctracting view accounts for a youtube channel's uploads.
+Been going through youtube data API v3. Exctracting view accounts for a youtube channel's uploads. Day 1 of 66 Days of Data.
+
+
+### R1D47
+
+In the context of python lists, I found out that append() attaches elements one by one, while extend() can concatenate two lists together. Using extend() requires less computation than using a '+' operator.
 
