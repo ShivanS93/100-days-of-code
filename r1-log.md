@@ -181,3 +181,7 @@ Been going through youtube data API v3. Exctracting view accounts for a youtube 
 
 In the context of python lists, I found out that append() attaches elements one by one, while extend() can concatenate two lists together. Using extend() requires less computation than using a '+' operator.
 
+### R1D48
+
+Working on analysing a youtube channel to look at view counts and among video tags / topics. Also Day 3 of 66 Days of Data.
+
