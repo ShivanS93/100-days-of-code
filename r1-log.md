@@ -185,3 +185,6 @@ In the context of python lists, I found out that append() attaches elements one 
 
 Working on analysing a youtube channel to look at view counts and among video tags / topics. Also Day 3 of 66 Days of Data.
 
+### R1D49
+
+Working with pandas and found a functionL pandas.json_normalize which can look at dictonaries lists and put into a DataFrame. Day 4 of Data. Also, read some Hand On Machine Learning.
