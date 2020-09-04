@@ -188,3 +188,7 @@ Working on analysing a youtube channel to look at view counts and among video ta
 ### R1D49
 
 Working with pandas and found a functionL pandas.json_normalize which can look at dictonaries lists and put into a DataFrame. Day 4 of Data. Also, read some Hand On Machine Learning.
+
+### R1D50
+
+Halfway there, working through manipulating dataframes and getting slightly frustrated. Day 5 of Data.
