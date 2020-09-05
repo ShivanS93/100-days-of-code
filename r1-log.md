@@ -192,3 +192,7 @@ Working with pandas and found a functionL pandas.json_normalize which can look a
 ### R1D50
 
 Halfway there, working through manipulating dataframes and getting slightly frustrated. Day 5 of Data.
+
+### R1D51
+
+Playing around with seaborn. Day 6 of Data.
