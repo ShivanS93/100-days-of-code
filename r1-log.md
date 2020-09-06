@@ -196,3 +196,7 @@ Halfway there, working through manipulating dataframes and getting slightly frus
 ### R1D51
 
 Playing around with seaborn. Day 6 of Data.
+
+### R1D52
+
+Playing around more with pandas. Learned about pivot tables to make grouped graphs. Day 7 of Data.
