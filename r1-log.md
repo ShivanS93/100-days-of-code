@@ -208,3 +208,7 @@ Went on kaggle and played around with the Titanic dataset. Day 8 of data.
 ### R1D54
 
 Working on blog for my first data project; also, two pomodoros on "Python for Data Analysis" by Wen Mckinney. Here is a video on pomodoro if you are interested: https://youtu.be/8Y2XrFLg4cY. Day 9 of data.
+
+### R1D55
+
+Continuing writing my post on my first data project. Getting a lot more comfortable with pandas and matplotlib. Working through some of numpy in "Python for Data Analysis". Day 10 of Data
