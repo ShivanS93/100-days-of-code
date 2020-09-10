@@ -212,3 +212,7 @@ Working on blog for my first data project; also, two pomodoros on "Python for Da
 ### R1D55
 
 Continuing writing my post on my first data project. Getting a lot more comfortable with pandas and matplotlib. Working through some of numpy in "Python for Data Analysis". Day 10 of Data
+
+### R1D56
+
+Working on blog. Playing around with raspberrypi3. Dat 11 of Data
