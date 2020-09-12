@@ -216,3 +216,7 @@ Continuing writing my post on my first data project. Getting a lot more comforta
 ### R1D56
 
 Working on blog. Playing around with raspberrypi3. Dat 11 of Data
+
+### R1D57
+
+Working on blog. Day 12 of Data.
