@@ -220,3 +220,7 @@ Working on blog. Playing around with raspberrypi3. Dat 11 of Data
 ### R1D57
 
 Working on blog. Day 12 of Data.
+
+### R1D58
+
+Have been loking at NLP using spaCy. Day 13 of Data.
