@@ -224,3 +224,7 @@ Working on blog. Day 12 of Data.
 ### R1D58
 
 Have been loking at NLP using spaCy. Day 13 of Data.
+
+## R1D59
+
+Having been working on my blog and starting another project analysing a discord channel text. Day 14 of Data.
