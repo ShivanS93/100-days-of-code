@@ -228,3 +228,7 @@ Have been loking at NLP using spaCy. Day 13 of Data.
 ## R1D59
 
 Having been working on my blog and starting another project analysing a discord channel text. Day 14 of Data.
+
+## R1D60
+
+I have been working on a new project which involves using NLP and spacy. Day 15 of Data.
