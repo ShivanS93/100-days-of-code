@@ -232,3 +232,7 @@ Having been working on my blog and starting another project analysing a discord 
 ## R1D60
 
 I have been working on a new project which involves using NLP and spacy. Day 15 of Data.
+
+## R2D61
+
+Working on Discord Chat analysis. Looking into making a discord chat bot: https://realpython.com/how-to-make-a-discord-bot-python/. Day 16 of Data.
