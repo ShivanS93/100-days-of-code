@@ -236,3 +236,7 @@ I have been working on a new project which involves using NLP and spacy. Day 15 
 ## R2D61
 
 Working on Discord Chat analysis. Looking into making a discord chat bot: https://realpython.com/how-to-make-a-discord-bot-python/. Day 16 of Data.
+
+## R2D62 
+
+Went through the first NLP kaggle excercise. Day 17 of Data.
