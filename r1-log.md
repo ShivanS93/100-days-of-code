@@ -240,3 +240,7 @@ Working on Discord Chat analysis. Looking into making a discord chat bot: https:
 ## R2D62 
 
 Went through the first NLP kaggle excercise. Day 17 of Data.
+
+## R2D63
+
+Finished chapter 1 of 'Hand On Machine Learning'. Lots and lots to learn. Day 18 of Data.
