@@ -244,3 +244,8 @@ Went through the first NLP kaggle excercise. Day 17 of Data.
 ## R2D63
 
 Finished chapter 1 of 'Hand On Machine Learning'. Lots and lots to learn. Day 18 of Data.
+
+
+## R2D64
+
+Made a start on Chapter 2 of 'Hands On Machine Learning'. Also spoke to a Data Scientist, James Williams. Tips he gave me are: you must have an ability to learn fast and communicate well on top of excellent programming and mathematics skills. Day 19 of Data.
