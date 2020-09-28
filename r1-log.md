@@ -253,3 +253,10 @@ Made a start on Chapter 2 of 'Hands On Machine Learning'. Also spoke to a Data S
 ## R2D65
 
 Writing a blog about my intended pathway to learning programming Day 20 of Data.
+
+## R2D66
+
+Blog writing for python pathway
+Worked on getting selenium working on an AWS EC2 instance
+Worked through Python for Data Analysis by Wes Mckinney
+Day 21 of Data
