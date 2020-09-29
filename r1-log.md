@@ -260,3 +260,10 @@ Blog writing for python pathway
 Worked on getting selenium working on an AWS EC2 instance
 Worked through Python for Data Analysis by Wes Mckinney
 Day 21 of Data
+
+## R2D67
+
+More blog writing
+Working on using git on EC2 instance
+Brushed up on Python for Data Analysis
+Day 22 of Data
