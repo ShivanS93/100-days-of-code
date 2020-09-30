@@ -267,3 +267,10 @@ More blog writing
 Working on using git on EC2 instance
 Brushed up on Python for Data Analysis
 Day 22 of Data
+
+## R1D68
+
+Finished blog and newsletter
+Working on numPy from Python for Data Analysis
+Brushing up Automate the Boring Stuff github page
+Day 23 of Data
