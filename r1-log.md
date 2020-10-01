@@ -274,3 +274,10 @@ Finished blog and newsletter
 Working on numPy from Python for Data Analysis
 Brushing up Automate the Boring Stuff github page
 Day 23 of Data
+
+
+## R1D69
+
+Working on automated downloading csv files
+Did some Python for Data Analysis
+Day 24 of Data
