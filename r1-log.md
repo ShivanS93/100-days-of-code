@@ -281,3 +281,9 @@ Day 23 of Data
 Working on automated downloading csv files
 Did some Python for Data Analysis
 Day 24 of Data
+
+## R1D70
+
+Working on numPy from Python for Data Analysis covering:
+- arithmetic and indexing with arrays
+Working on python and AWS EC2
