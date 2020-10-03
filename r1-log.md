@@ -287,3 +287,12 @@ Day 24 of Data
 Working on numPy from Python for Data Analysis covering:
 - arithmetic and indexing with arrays
 Working on python and AWS EC2
+
+## R1D71
+
+Python for Data Analysis:
+- Universal Functions
+- Array-Orientated programming
+- Mathematical/Statistical methods
+All with NumPy
+Day 26 of Data.
