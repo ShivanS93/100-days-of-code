@@ -295,4 +295,13 @@ Python for Data Analysis:
 - Array-Orientated programming
 - Mathematical/Statistical methods
 All with NumPy
-Day 26 of Data.
+Day 26 of Data
+
+## R1D72
+
+Python for Data Analysis:
+- Linear Algebra
+- Pseudorandom number generation with NumPy arrays
+- Did a Random Walk Example
+I've finally cleared the forest and made it to pandas!
+Day 27 of Data
