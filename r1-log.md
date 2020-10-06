@@ -305,3 +305,11 @@ Python for Data Analysis:
 - Did a Random Walk Example
 I've finally cleared the forest and made it to pandas!
 Day 27 of Data
+
+
+## R1D73
+
+Python for Data Analysis:
+- started pandas
+- learning about Series and DataFrame
+Day 28 of Data
