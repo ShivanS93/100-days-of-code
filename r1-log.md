@@ -313,3 +313,9 @@ Python for Data Analysis:
 - started pandas
 - learning about Series and DataFrame
 Day 28 of Data
+
+# R1D74
+Python for Data Analysis:
+- working with pandas
+- mainly about indexing
+Day 29 of Data
