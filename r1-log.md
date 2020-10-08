@@ -319,3 +319,11 @@ Python for Data Analysis:
 - working with pandas
 - mainly about indexing
 Day 29 of Data
+
+
+# R1D74
+Python for Data Analysis:
+- pandas
+- arthimetic with pandas
+- data arangement between two dataframes and series
+Day 30 of Data
