@@ -314,16 +314,20 @@ Python for Data Analysis:
 - learning about Series and DataFrame
 Day 28 of Data
 
-# R1D74
+## R1D74
 Python for Data Analysis:
 - working with pandas
 - mainly about indexing
 Day 29 of Data
 
 
-# R1D74
+## R1D74
 Python for Data Analysis:
 - pandas
 - arthimetic with pandas
 - data arangement between two dataframes and series
 Day 30 of Data
+
+## R1D75
+Installed Ubuntu onto my Surface Book 2 using https://github.com/linux-surface/linux-surface/wiki/Installation-and-Setup and https://www.reddit.com/r/SurfaceLinux/comments/8sd3zy/how_to_dual_boot_ubuntu_1804_on_surface_book/
+
