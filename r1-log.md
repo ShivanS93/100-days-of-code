@@ -331,3 +331,11 @@ Day 30 of Data
 ## R1D75
 Installed Ubuntu onto my Surface Book 2 using https://github.com/linux-surface/linux-surface/wiki/Installation-and-Setup and https://www.reddit.com/r/SurfaceLinux/comments/8sd3zy/how_to_dual_boot_ubuntu_1804_on_surface_book/
 
+
+## R1D76
+Python for Data Analysis:
+- pandas
+- sorting/indexing
+- statistics of dataframes and series
+Also worked on linux set up.
+Day 31 of Data
