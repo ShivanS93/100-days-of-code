@@ -344,3 +344,10 @@ Python for Data Analysis:
 - finished Chapter 5 on pandas
 Playing around with i3wm
 Day 32 of Data
+
+## R1D78
+Python for Data Analysis:
+- finished Chapter 6 working on data reading.
+- got stuck with pd.Series([]) giving an error
+More configuring my linux environment
+Day 33 of Data
