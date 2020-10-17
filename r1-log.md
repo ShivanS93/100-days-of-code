@@ -351,3 +351,12 @@ Python for Data Analysis:
 - got stuck with pd.Series([]) giving an error
 More configuring my linux environment
 Day 33 of Data
+
+## R1D79
+
+Sorry been a bit lazy updating, but have been studying!
+Python for Data Analysis:
+- working on Chapter 6
+- working on reading data from xml, hdf5, and excel using pandas
+Did some more work on my linux i3wm layout
+Day 34 of Data
