@@ -360,3 +360,12 @@ Python for Data Analysis:
 - working on reading data from xml, hdf5, and excel using pandas
 Did some more work on my linux i3wm layout
 Day 34 of Data
+
+## R1D80
+
+Change in book. Hand-On Machine Learning:
+- working on 2nd chapter
+- splitting test and train data
+- using zlib / crc32 to ensure consistency
+Also working on perfecting my linux set up
+Day 35 of Data
