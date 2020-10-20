@@ -369,3 +369,11 @@ Change in book. Hand-On Machine Learning:
 - using zlib / crc32 to ensure consistency
 Also working on perfecting my linux set up
 Day 35 of Data
+
+## R1D81
+
+Hands-On Machine Lerning:
+- working on 2nd chapter
+- made some cool graphs looking at location and median household income
+- I'm wondering if this can be found in chch?
+Day 36 of data.
