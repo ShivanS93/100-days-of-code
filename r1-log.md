@@ -377,3 +377,11 @@ Hands-On Machine Lerning:
 - made some cool graphs looking at location and median household income
 - I'm wondering if this can be found in chch?
 Day 36 of data.
+
+
+## R1D82
+
+Hands-On Machine Lerning:
+- working on 2nd chapter
+- learning about correlation matrix
+Day 37 of data.
