@@ -385,3 +385,8 @@ Hands-On Machine Lerning:
 - working on 2nd chapter
 - learning about correlation matrix
 Day 37 of data.
+
+## R1D83 
+Had a stresful day today, so not much done.
+Learning about SimpleImputer and how it can fill in nans.
+Day 38 of Data
