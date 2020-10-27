@@ -390,3 +390,8 @@ Day 37 of data.
 Had a stresful day today, so not much done.
 Learning about SimpleImputer and how it can fill in nans.
 Day 38 of Data
+
+## R1D84
+Been on holiday and have had a little break from coding/data.
+Continuing chapter 2 of Hand on Machine Learning - learning about one hot encoding.
+Day 29 of Data.
