@@ -394,4 +394,9 @@ Day 38 of Data
 ## R1D84
 Been on holiday and have had a little break from coding/data.
 Continuing chapter 2 of Hand on Machine Learning - learning about one hot encoding.
-Day 29 of Data.
+Day 39 of Data.
+
+
+## R1D84
+Created a bash file to automatically open by conda environment as well as my Jupyter Lab.
+Day 40 of Data.
