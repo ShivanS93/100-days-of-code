@@ -400,3 +400,10 @@ Day 39 of Data.
 ## R1D84
 Created a bash file to automatically open by conda environment as well as my Jupyter Lab.
 Day 40 of Data.
+
+
+## R1D85
+Hands-On Machine Learning.
+- creating a pipeline and transformers
+- next is training the model!
+Day 41 of Data
