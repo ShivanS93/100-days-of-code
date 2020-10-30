@@ -407,3 +407,10 @@ Hands-On Machine Learning.
 - creating a pipeline and transformers
 - next is training the model!
 Day 41 of Data
+
+
+## R1D86
+Hands-On Machine Learning. Chapter 2
+- looking at training data using linear regression and then using decision tree
+- next is looking at validation of the methods used
+Day 42 of Data
