@@ -414,3 +414,10 @@ Hands-On Machine Learning. Chapter 2
 - looking at training data using linear regression and then using decision tree
 - next is looking at validation of the methods used
 Day 42 of Data
+
+## R1D87
+Hands-On Machine Learning. Chapter 2
+- working on fitting models applied to preprocessed data
+- examples include using random forest  
+- next is learning about fine-turning the model
+Day 43 of data
