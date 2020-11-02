@@ -421,3 +421,9 @@ Hands-On Machine Learning. Chapter 2
 - examples include using random forest  
 - next is learning about fine-turning the model
 Day 43 of data
+
+## R1D88
+Hands-On Machine Learning. Chapter 2
+- learning about gridSearchCV for tunning hyperparameters
+- next is learning about lauching and monitoring your system
+Day 44 of data
