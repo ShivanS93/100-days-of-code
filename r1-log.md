@@ -427,3 +427,11 @@ Hands-On Machine Learning. Chapter 2
 - learning about gridSearchCV for tunning hyperparameters
 - next is learning about lauching and monitoring your system
 Day 44 of data
+
+## R1D89
+Hands-On Machine Learning. Chapter 2
+- completed work along for the chapter
+- up to the excercises
+Boy are they difficult, but only one way to learn.
+Day 45 of data.
+Day 44 of data
