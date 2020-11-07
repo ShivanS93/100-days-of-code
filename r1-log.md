@@ -434,4 +434,8 @@ Hands-On Machine Learning. Chapter 2
 - up to the excercises
 Boy are they difficult, but only one way to learn.
 Day 45 of data.
-Day 44 of data
+
+## R1D90
+Completed a blog post due to come out in a few hours in a project I have done.
+Also, working on djangogirls blog project tutorial.
+Day 46 of data.
