@@ -439,3 +439,8 @@ Day 45 of data.
 Completed a blog post due to come out in a few hours in a project I have done.
 Also, working on djangogirls blog project tutorial.
 Day 46 of data.
+
+
+## R1D91
+Completed Chapter 2 of Hands On Machine Learning. One thing I learned - Machine learning is not easy...yet. Now, time to tackle Chapter 3 which looks at classification
+Day 47 of data.
