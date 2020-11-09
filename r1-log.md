@@ -444,3 +444,7 @@ Day 46 of data.
 ## R1D91
 Completed Chapter 2 of Hands On Machine Learning. One thing I learned - Machine learning is not easy...yet. Now, time to tackle Chapter 3 which looks at classification
 Day 47 of data.
+
+## R1D92
+Completed chapter 6 of Python for Data Analysis. Learnt about using Excel, API, and databases and turning this into pandas dataframes. Looking briefly into Chapter 3 of Hands on Machine Learning. Day 48 of Data.
+Day 48 of data.
