@@ -349,7 +349,7 @@ Day 32 of Data
 Python for Data Analysis:
 - finished Chapter 6 working on data reading.
 - got stuck with pd.Series([]) giving an error
-More configuring my linux environment
+More configuring my linux environmentdatascience #machinelearning
 Day 33 of Data
 
 ## R1D79
@@ -447,4 +447,7 @@ Day 47 of data.
 
 ## R1D92
 Completed chapter 6 of Python for Data Analysis. Learnt about using Excel, API, and databases and turning this into pandas dataframes. Looking briefly into Chapter 3 of Hands on Machine Learning. Day 48 of Data.
-Day 48 of data.
+
+## R1D93
+Revisited a final year project I did University. It involved using optokinetic nystagmus to measure visual acuity.
+https://shivansivakumaran.com/coding/how-i-used-python-to-induce-optokinetic-nystagmus/
