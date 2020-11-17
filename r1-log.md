@@ -451,3 +451,6 @@ Completed chapter 6 of Python for Data Analysis. Learnt about using Excel, API, 
 ## R1D93
 Revisited a final year project I did University. It involved using optokinetic nystagmus to measure visual acuity.
 https://shivansivakumaran.com/coding/how-i-used-python-to-induce-optokinetic-nystagmus/
+
+### R1D94
+Started on Chapter 3 of Hands On Machine Learning. I have already read through the chapter before hand. Now it's time to get practical. Day 49 of Data
