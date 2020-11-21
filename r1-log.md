@@ -457,3 +457,6 @@ Started on Chapter 3 of Hands On Machine Learning. I have already read through t
 
 ### R1D95
 Working on Chapter 3 of Hands On Machine Learning. Playing around with the MNIST dataset of numbers and creating a binary classifier. Day 50 of Data.
+
+### R1D96
+Working on Chapter 3 of Hands On Machine Learning. Learning about Precision and Recall tradeoff with a binary classifier. Also, going to finish of Automate the Boring Stuff - Chapter 16. Day 51 of Data.
