@@ -454,3 +454,6 @@ https://shivansivakumaran.com/coding/how-i-used-python-to-induce-optokinetic-nys
 
 ### R1D94
 Started on Chapter 3 of Hands On Machine Learning. I have already read through the chapter before hand. Now it's time to get practical. Day 49 of Data
+
+### R1D95
+Working on Chapter 3 of Hands On Machine Learning. Playing around with the MNIST dataset of numbers and creating a binary classifier. Day 50 of Data.
