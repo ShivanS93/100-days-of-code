@@ -460,3 +460,8 @@ Working on Chapter 3 of Hands On Machine Learning. Playing around with the MNIST
 
 ### R1D96
 Working on Chapter 3 of Hands On Machine Learning. Learning about Precision and Recall tradeoff with a binary classifier. Also, going to finish of Automate the Boring Stuff - Chapter 16. Day 51 of Data.
+
+### R1D97
+- Working on Chapter 3 of Hands On Machine Learning. Learning about Precision and Recall - 
+- Worked on blog post about starting with Linux
+Day 52 of Data
