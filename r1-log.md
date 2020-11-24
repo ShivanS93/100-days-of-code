@@ -465,3 +465,8 @@ Working on Chapter 3 of Hands On Machine Learning. Learning about Precision and 
 - Working on Chapter 3 of Hands On Machine Learning. Learning about Precision and Recall - 
 - Worked on blog post about starting with Linux
 Day 52 of Data
+
+### R1D98
+- Working through chapter 17 of Automate the Boring Stuff
+- Using Pillow, working through an example of putting a logo onto images
+- Also working on vim skills using Ben Awad's vim video and also creating a blog from this.
