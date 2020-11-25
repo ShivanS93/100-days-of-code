@@ -470,3 +470,8 @@ Day 52 of Data
 - Working through chapter 17 of Automate the Boring Stuff
 - Using Pillow, working through an example of putting a logo onto images
 - Also working on vim skills using Ben Awad's vim video and also creating a blog from this.
+
+### R1D99
+- Working through chapter 17 of Automate the Boring Stuff
+- Working on Pillow (image library)
+- Also working on a blog about linux and i3.
