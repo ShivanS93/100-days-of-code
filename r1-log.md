@@ -475,3 +475,6 @@ Day 52 of Data
 - Working through chapter 17 of Automate the Boring Stuff
 - Working on Pillow (image library)
 - Also working on a blog about linux and i3.
+
+### R1D100
+-Working on VIM blog
